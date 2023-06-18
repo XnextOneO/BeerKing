@@ -146,9 +146,9 @@ h3 {
    * Beer
    */
   #game-wrap .egg {
-    width: 20px;
-    height: 20px;
-    background: transparent url('../img/egg/fixBeer.jpg') center center no-repeat;
+    width: 30px;
+    height: 115px;
+    background: transparent url('../img/egg/fixBEER.png') center center no-repeat;
     position: absolute;
   }
     #game-wrap[data-egg-0="0"] .egg.e-0,
